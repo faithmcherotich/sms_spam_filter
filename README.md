@@ -1,4 +1,5 @@
 # SMS Spam Filter using Python and NLP
+This project implements a supervised SMS spam filtering system using NLP preprocessing and a frequency-based probabilistic classifier inspired by Naive Bayes.
 
 ## Client Background
 Spam messages are a common problem in mobile communication. Companies need lightweight and explainable filters that can classify messages as spam or legitimate (ham). This project demonstrates a simple Natural Language Processing approach to spam detection.
@@ -33,3 +34,4 @@ Dataset fields:
 - Python
 - Pandas
 - NLTK
+
